@@ -4,9 +4,8 @@ e-mail address : jinwoong.it@gmail.com
 Detail description : info file  
 
 ## Introduction
-- FPGA programming
-- Use [LFSR(Linear Feedback Shift Register)](https://simplefpga.blogspot.com/2013/02/random-number-generator-in-verilog-fpga.html)    
-- 난수 생성을 통한 이미지 encryption & decryption  
+- FPGA programming   
+- Image encryption & decryption by using [LFSR(Linear Feedback Shift Register)](https://simplefpga.blogspot.com/2013/02/random-number-generator-in-verilog-fpga.html)  
 
 ## Main Technology
 - Verilog  
@@ -15,9 +14,9 @@ Detail description : info file
 - Xilinx Vivado  
 
 ## Screenshots
-- encryption 영역  
+- Encryption range  
 ![er_diagram](./img/face.png)  
-- face encryption  
+- Face encryption  
 ![er_physic](./img/scramble_face.png)  
-- face decryption  
+- Face decryption  
 ![homepage](./img/descramble_face.png)
